@@ -1,8 +1,15 @@
+// Version 1.00
+// Version 1.01 PSR 18-Mar-2017
+// Version 1.02 GM 19-Mar-2017 
+
+
+// testing  // V1.01 
 import static org.junit.Assert.*;
 import org.junit.Test;
 import java.util.Random;
 
-public class Bowling 
+//public class Bowling  // V1.02
+private class Bowling // V 1.02 
 {
 	private Game game=new Game();
 	@Test
